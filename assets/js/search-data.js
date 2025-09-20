@@ -59,11 +59,11 @@ ninja.data = [{
             window.location.href = "/yilmazlab/blog/2024/photo-gallery/";
           
         },
-      },{id: "post-500-server-error",
+      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
-          title: '500 Server Error <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
         section: "Posts",
         handler: () => {
           
@@ -411,8 +411,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-page-is-up-amp-amp-alive",
           title: 'Our page is up &amp;amp;amp; alive!!',
           description: "",
-          section: "News",},{id: "news-cm2025-sophia",
-          title: 'CM2025 @Sophia!',
+          section: "News",},{id: "news-cm2025-at-sophia-university",
+          title: 'CM2025 at Sophia University!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/yilmazlab/news/announcement_2/";
