@@ -467,13 +467,6 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=R2D30vAAAAAJ", "_blank");
         },
       },{
-        id: 'social-scopus',
-        title: 'Scopus',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.scopus.com/authid/detail.uri?authorId=57908475500", "_blank");
-        },
-      },{
         id: 'social-researchmap',
         title: 'Researchmap',
         section: 'Socials',
