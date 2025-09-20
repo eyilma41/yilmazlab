@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sophia-yilmazlab.github.io/yilmazlab/sitemap.xml
+Sitemap: https://eyilma41.github.io/yilmazlab/sitemap.xml
