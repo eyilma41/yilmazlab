@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses can be found on [MOODLE](https://moodle.cc.sophia.ac.jp) page.",
+          description: "Materials for each course can be found on [MOODLE](https://moodle.cc.sophia.ac.jp) page, after logging in via password.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/yilmazlab/teaching/";
