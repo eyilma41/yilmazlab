@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "eyilma41/yilmazlab",
+    "data-repo": "sophia-yilmazlab/yilmazlab",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
