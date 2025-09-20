@@ -467,13 +467,6 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=R2D30vAAAAAJ", "_blank");
         },
       },{
-        id: 'social-researchmap',
-        title: 'Researchmap',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://researchmap.jp/yilmaz?lang=en", "_blank");
-        },
-      },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
