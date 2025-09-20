@@ -400,10 +400,12 @@ ninja.data = [{
           section: "News",},{id: "news-cm2025-13th-international-conference-on-contact-mechanics-and-wear-of-rail-wheel-systems-will-be-held-at-yotsuya-campus-in-sophia-university-tokyo-japan-click-here-for-more-about-the-conference",
           title: 'CM2025 (13th International Conference on Contact Mechanics and Wear of Rail/Wheel Systems) will...',
           description: "",
-          section: "News",},{id: "news-our-lab-page-is-up-amp-amp-alive",
-          title: 'Our lab page is up &amp;amp;amp; alive!!',
+          section: "News",},{id: "news-announcement-1",
+          title: 'Announcement_1',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",handler: () => {
+              window.location.href = "/yilmazlab/news/announcement_1/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
