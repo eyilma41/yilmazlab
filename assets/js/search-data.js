@@ -411,12 +411,10 @@ ninja.data = [{
           section: "News",},{id: "news-our-page-is-up-amp-amp-alive",
           title: 'Our page is up &amp;amp;amp; alive!!',
           description: "",
-          section: "News",},{id: "news-cm2025-at-sophia-university",
-          title: 'CM2025 at Sophia University!',
+          section: "News",},{id: "news-cm2025-13th-international-conference-on-contact-mechanics-and-wear-of-rail-wheel-systems-was-held-at-yotsuya-campus-in-sophia-university-tokyo-japan-click-here-for-more-about-the-conference-hipster-list-amp-lt-ul-amp-gt-amp-lt-li-amp-gt-brunch-amp-lt-li-amp-gt-amp-lt-li-amp-gt-fixie-amp-lt-li-amp-gt-amp-lt-li-amp-gt-raybans-amp-lt-li-amp-gt-amp-lt-li-amp-gt-messenger-bag-amp-lt-li-amp-gt-amp-lt-ul-amp-gt-hoodie-thundercats-retro-tote-bag-8-bit-godard-craft-beer-gastropub-truffaut-tumblr-taxidermy-raw-denim-kickstarter-sartorial-dreamcatcher-quinoa-chambray-slow-carb-salvia-readymade-bicycle-rights-90-s-yr-typewriter-selfies-letterpress-cardigan-vegan-pug-heirloom-high-life-vinyl-swag-single-origin-coffee-four-dollar-toast-taxidermy-reprehenderit-fap-distillery-master-cleanse-locavore-est-anim-sapiente-leggings-brooklyn-ea-thundercats-locavore-excepteur-veniam-eiusmod-raw-denim-truffaut-schlitz-migas-sapiente-portland-vhs-twee-bushwick-marfa-typewriter-retro-id-keytar-amp-gt-we-do-not-grow-absolutely-chronologically-we-grow-sometimes-in-one-dimension-and-not-in-another-unevenly-we-grow-partially-we-are-relative-we-are-mature-in-one-realm-childish-in-another-amp-gt-anais-nin-fap-aliqua-qui-scenester-pug-echo-park-polaroid-irony-shabby-chic-ex-cardigan-church-key-odd-future-accusamus-blog-stumptown-sartorial-squid-gastropub-duis-aesthetic-truffaut-vero-pinterest-tilde-twee-odio-mumblecore-jean-shorts-lumbersexual",
+          title: 'CM2025 (13th International Conference on Contact Mechanics and Wear of Rail/Wheel Systems) was...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/yilmazlab/news/announcement_2/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
