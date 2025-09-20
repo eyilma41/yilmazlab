@@ -508,7 +508,7 @@ ninja.data = [{
         title: 'Researchmap',
         section: 'Socials',
         handler: () => {
-          window.open("https://researchmap.jp/yilmaz", "_blank");
+          window.open("https://researchmap.jp/yilmaz?lang=en", "_blank");
         },
       },{
       id: 'light-theme',
