@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for each course can be found on MOODLE page, after logging in via password.",
+          description: "Materials for each course can be found on MOODLE page (course registration required).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/yilmazlab/teaching/";
@@ -412,18 +412,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/yilmazlab/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/yilmazlab/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-our-page-is-up-amp-amp-alive",
+          title: 'Our page is up &amp;amp;amp; alive!!',
+          description: "",
+          section: "News",},{id: "news-cm2025-sophia",
+          title: 'CM2025 @Sophia!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/yilmazlab/news/announcement_2/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
@@ -473,7 +473,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/emir-yilmaz-4107/", "_blank");
+          window.open("https://www.linkedin.com/in/emir-yilmaz-4107# your LinkedIn user name", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -487,7 +487,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Emir_Yilmaz2?ev=hdr_xprf/", "_blank");
+          window.open("https://www.researchgate.net/profile/Emir_Yilmaz2/", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -509,6 +509,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://twitter.com/eyilma41", "_blank");
+        },
+      },{
+        id: 'social-researchmap',
+        title: 'Researchmap',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://researchmap.jp/yilmaz", "_blank");
         },
       },{
       id: 'light-theme',
