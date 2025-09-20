@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/yilmazlab/teaching/";
           },
+        },{id: "nav-research",
+          title: "research",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/yilmazlab/research/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -439,13 +446,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/yilmazlab/projects/9_project/";
             },},{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/emir-yilmaz-4107# your LinkedIn user name", "_blank");
-        },
-      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
@@ -474,6 +474,13 @@ ninja.data = [{
           window.open("https://www.scopus.com/authid/detail.uri?authorId=57908475500", "_blank");
         },
       },{
+        id: 'social-researchmap',
+        title: 'Researchmap',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://researchmap.jp/yilmaz?lang=en", "_blank");
+        },
+      },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
@@ -481,11 +488,11 @@ ninja.data = [{
           window.open("https://twitter.com/eyilma41", "_blank");
         },
       },{
-        id: 'social-researchmap',
-        title: 'Researchmap',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://researchmap.jp/yilmaz?lang=en", "_blank");
+          window.open("https://www.linkedin.com/in/emir-yilmaz-4107# your LinkedIn user name", "_blank");
         },
       },{
       id: 'light-theme',
