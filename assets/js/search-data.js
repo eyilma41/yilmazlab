@@ -405,8 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/yilmazlab/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-our-collaborative-research-on-ammonia-powered-engines-led-by-prof-mitsuhisa-ichiyanagi-was-featured-in-a-sophia-university-press-release",
+          title: 'Our collaborative research on ammonia-powered engines, led by Prof. Mitsuhisa Ichiyanagi, was featured...',
           description: "",
           section: "News",},{id: "news-our-page-is-up-amp-amp-alive",
           title: 'Our page is up &amp;amp;amp; alive!!',
