@@ -411,8 +411,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-page-is-up-amp-amp-alive",
           title: 'Our page is up &amp;amp;amp; alive!!',
           description: "",
-          section: "News",},{id: "news-cm2025-sophia",
-          title: 'CM2025 @Sophia!',
+          section: "News",},{id: "news-cm2025-at-sophia-university",
+          title: 'CM2025 at Sophia University!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/yilmazlab/news/announcement_2/";
