@@ -422,7 +422,7 @@ ninja.data = [{
           title: 'CM2025 @Sophia!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/yilmazlab/news/2025-09-26-cm2025-sophia/";
+              window.location.href = "/yilmazlab/news/announcement_2/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
