@@ -469,11 +469,11 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/yilmazlab/projects/9_project/";
             },},{
-        id: 'social-email',
-        title: 'email',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%69%6C%6D%61%7A[%61%74]%73%6F%70%68%69%61.%61%63.%6A%70 *%72%65%70%6C%61%63%65 [%61%74] %77%69%74%68 @ %6D%61%72%6B*", "_blank");
+          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/emir-yilmaz-4107/", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -481,6 +481,20 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0000-0003-3173-1853", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Emir_Yilmaz2?ev=hdr_xprf/", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=R2D30vAAAAAJ", "_blank");
         },
       },{
         id: 'social-scopus',
